@@ -19,8 +19,10 @@ Libraries: opencv-python, numpy, matplotlib
 Install with:
 
 pip install opencv-python numpy matplotlib
+
 🖌 Tasks
-Task 1 – Color Channel Visualization
+
+-Task 1 – Color Channel Visualization
 
 Resize original image to 50%.
 
@@ -36,7 +38,7 @@ Bottom Right: B channel of RGB (Blue tones)
 
 Example output:
 
-Task 2 – Image Transformations
+-Task 2 – Image Transformations
 
 Horizontal Flip
 
@@ -48,7 +50,7 @@ Random 100x100 zeroed region
 
 Example output:
 
-Task 3 – Blue X Detection
+-Task 3 – Blue X Detection
 
 Detect and count blue "X" shapes in red_x.png.
 
